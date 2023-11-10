@@ -27,7 +27,7 @@ Output: [0,1]
 #include <vector>
 #include <unordered_map>
 
-#include "lc_helper_func.h"
+#include "lc_vec_helper.h"
 
 using namespace std;
 
